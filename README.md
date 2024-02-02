@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif?cid=6c09b952qd1dk0dkotjgoau1a6k9x35f3a3xw7jd31tidow4&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="100"/>
 </div>
-#💫 About Me:
+## 💫 About Me:
 
 ▪️I'm a student at the <br>polytechnic college 🐉<br>▪️I'm dead inside🐉<br>▪️ I'm a woman🐉
 
